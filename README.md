@@ -18,7 +18,7 @@ Default for FPS cap is 0 (120 fps) you can change it as you like.
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/eVJ7sQH7Cc
 
 credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
