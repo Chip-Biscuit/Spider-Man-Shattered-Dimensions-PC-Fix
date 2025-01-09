@@ -1,4 +1,4 @@
-# Spiderman-Shattered-Dimensions-Fix
+# Spider-Man-Shattered-Dimensions-PC-Fix
 
 This is the spiderman Shattered Dimensions d3d9 wrapper 
 
