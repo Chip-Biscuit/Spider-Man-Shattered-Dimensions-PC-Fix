@@ -1,5 +1,7 @@
 # Spider-Man-Shattered-Dimensions-PC-Fix
 
+![shattereddimension](https://github.com/user-attachments/assets/d462980f-5290-4249-a518-e98806c0dcb6)
+
 This is the spiderman Shattered Dimensions d3d9 wrapper 
 
 simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go
