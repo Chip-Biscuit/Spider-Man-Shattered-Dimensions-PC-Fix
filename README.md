@@ -18,6 +18,8 @@ The default for FOV is (0) which is the original games FOV. You can choose eithe
 
 The game will start with the original FOV by default and when in game you can press the ‘9’ key to toggle between the original and new FOV setting.
 
+**General important note** – When using FOV on higher settings then the game can have bugs such as menus becoming misaligned and in certain cases in the stealth Noir levels enemies will be able to see Spider-Man when he is nowhere near them. It is advised that the user uses the toggle feature during these moments to fix these bugs.
+
 # Window Mode
 If you wish to use windowed mode, then you can select your resolution using the resolution setting. This then works in window mode and fullscreen, (0) is window mode and (1) is fullscreen mode.
 
