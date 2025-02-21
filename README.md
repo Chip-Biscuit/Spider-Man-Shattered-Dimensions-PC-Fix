@@ -14,9 +14,9 @@ Resolution and aspect ratio edits are done together so you will only have to cho
 The default for FPS is (60) you can change it as you wish or fully uncap it with (0) with the FPSLimit option in the d3d9.ini file. This games max FPS is set to 120 due to game breaking bugs above 120fps in the Steam version of the game.
 
 # FOV
-The default for FOV is (0) which is the original games FOV. You can choose either 1,2 or 3 in the d3d9.ini file and each option will increase the FOV in game.
+The default for FOV is (0) which is the original games FOV. You can choose either 1 ,2 or 0 in the d3d9.ini file and each option will increase the FOV in game.
 
-The game will start with the original FOV by default and when in game you can press the ‘9’ key to toggle between the original and new FOV setting.
+The game will start with the original FOV by default and when in game you can press the hotkey you chose in [hotkey]keycodes.txt and enter the virtual code in the ini to toggle between the original and new FOV setting.
 
 **General important note** – When using FOV on higher settings then the game can have bugs such as menus becoming misaligned and in certain cases in the stealth Noir levels enemies will be able to see Spider-Man when he is nowhere near them. It is advised that the user uses the toggle feature during these moments to fix these bugs.
 
