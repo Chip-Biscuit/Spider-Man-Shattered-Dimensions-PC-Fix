@@ -5,6 +5,7 @@
 # Instructions
 Go to releases and download the latest SpidermanShatteredDimensions.zip, extract the d3d9.dll and d3d9.ini files into your game folder next to the Game.exe file and you are good to go! You can edit the settings you wish to use in the d3d9.ini file.
 
+This fix is only designed to work in the steam version of the game any other version has stability issues.
 # Resolution/Aspect Ratio
 The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the resolution that you wish to use in both the Width and Height area.
 
