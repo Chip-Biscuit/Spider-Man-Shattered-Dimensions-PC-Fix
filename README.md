@@ -12,7 +12,7 @@ The default for resolution is set to (1920 x 1080) in the d3d9.ini file. Put the
 Resolution and aspect ratio edits are done together so you will only have to choose your resolution.
 
 # FPS
-The default for FPS is (60) you can change it as you wish within the d3d9.ini file please enter the fps you wish the game to run at with a maximum available of 360.
+Default for FPS cap is 60 you can set the game to play at the FPS you wish in d3d9.ini for example 30, 60, 120 with a maximum of 360 FPS.
 
 # FOV
 The default for FOV is (0) which is the original games FOV. You can choose either 1 ,2 or 0 in the d3d9.ini file and each option will increase the FOV in game.
