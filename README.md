@@ -28,6 +28,10 @@ If you wish to use windowed mode, then you can select your resolution using the 
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/spider-man-shattered-dimensions 
 
 # Issues/Problems
+unfortunately this game has issues on AMD hardware, this fix has not been made with the intention of fixing issues on AMD as i do not have access to this hardware, this fix is only aimed at and tested on 
+intel/nvidia hardware only. its possible in the future if i can get my hands on AMD it will be looked at so keep an eye for updates.
+but be aware if you have AMD this fix probably wont work for you.
+
 If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
 Credits
