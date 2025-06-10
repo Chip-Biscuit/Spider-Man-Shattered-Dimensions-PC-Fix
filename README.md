@@ -7,6 +7,17 @@ Go to releases and download the latest `SpidermanShatteredDimensions.zip`, extra
 
 This fix is only designed to work in the Steam version of the game, as any other version has stability issues.
 
+# Hobgoblin level freeze or crash issue
+When playing the Hobgoblin level just after the 1st fight with Hobgoblin you will enter into a small building hallway where the game can either crash or freeze the image on you but still be playing in the background. There are a few different methods you can use to help try and fix this issue. It is also advised when getting to this part to run straight to the end of the corridor to help get past the guard who causes the freeze when coming out of the door.
+
+Method 1 – If playing with an Nvidia graphics card go to Nvidia Control Panel and open 3D Manage Settings, go to Program Settings and select Spider-Man Shattered Dimensions exe file or if you can’t find it in the list add it by browsing to the game folder and selecting the exe file. Then change the setting Use Global Settings to High Performance NVIDIA Processor. This should then possibly stop the issue. On side note this will also help the games FPS be more stable.
+
+Method 2 – If the game freezes press the pause button or esc and alt+tab out of the game and then go back into it once again and unpause and it should then resume like normal.
+
+Method 3 – On both the Game.exe and Launcher.exe right click then and click properties, go to compatibility tab and change the compatibility mode to "Vista service pack 1" and tick the run as an administrator option and click apply.
+
+Method 4 – If everything else fails then play this level with Windowed Mode and set the fps to 30.
+
 # Resolution/Aspect Ratio
 The default for resolution is set to `1920x1080` in the `d3d9.ini` file. Put the resolution that you wish to use in both the `ResolutionWidth` and `ResolutionHeight` field.
 
