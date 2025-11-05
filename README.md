@@ -2,9 +2,11 @@
 
 # 🎮 Game Specific Patches & DLL Wrappers  
 
+***created and maintained by***
+
 [![Chip-Biscuit Website](https://img.shields.io/badge/Chip--Biscuit-Website-blue?style=for-the-badge)](https://chip-biscuit.github.io/)
 
-Reverse Engineering • Programming • Patching • Game Improvements  
+Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
 
 </div>
 
