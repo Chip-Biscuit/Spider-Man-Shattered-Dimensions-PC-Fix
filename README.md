@@ -65,9 +65,11 @@ Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
 Credit to GitHub user "SuperSamus" for pointing out that FPS limit should not be hardcoded to a high limit.
 
-Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
+---
 
-# Team fix enhancers:
+### Fix Enhancers  
+https://fixenhancers.wixsite.com/fix-enhancers
+
 “Creating compatibility fixes and enhancements for legacy PC games.”
 
 # Chip
@@ -75,6 +77,7 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 - reverse engineer
 - programmer
 - developer
+- Game Preservationist
   
 <img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
 
